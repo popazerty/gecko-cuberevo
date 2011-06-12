@@ -1,0 +1,17 @@
+<default>
+	<prerequisites>
+		<tag type="Skin" />
+	</prerequisites>
+	<info>
+		<author>Margy82</author>
+		<name>SIFTeam Slide Skin HD</name>
+		<packagename>enigma2-skin-sifteam.slideskin</packagename>
+		<shortdescription>SIFTeam Slide Skin HD</shortdescription>
+		<description>SIFTeam Slide Skin HD for the Dreambox</description>
+		<screenshot src="http://openee.siftea.eu/preview/skin_sifteam.slideskin.jpg" />                    
+	</info>
+
+	<files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-skin-sifteam.slideskin" />
+	</files>
+</default>

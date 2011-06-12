@@ -174,4 +174,11 @@ skins/YADS-HD/meta/Makefile
 skins/YADS-HD/selpic/Makefile
 skins/YADS-HD/skin_default/Makefile
 skins/YADS-HD/skin_default/icons/Makefile
+skins/SIFTeam.SlideSkin/Makefile
+skins/SIFTeam.SlideSkin/buttons/Makefile
+skins/SIFTeam.SlideSkin/crypt_icons/Makefile
+skins/SIFTeam.SlideSkin/icons/Makefile
+skins/SIFTeam.SlideSkin/menu/Makefile
+skins/SIFTeam.SlideSkin/meta/Makefile
+skins/SIFTeam.SlideSkin/wallpapers/Makefile
 ])
